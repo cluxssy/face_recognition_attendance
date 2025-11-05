@@ -1,0 +1,8 @@
+opencv-python
+pickle
+dlib-bin
+face_recognition
+numpy
+cvzone
+requests
+pillow
